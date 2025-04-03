@@ -1,1 +1,2 @@
-# DataStructures
+# Data Structures
+Midterm Cheat Sheet
